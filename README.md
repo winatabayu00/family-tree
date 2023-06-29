@@ -20,7 +20,7 @@ Aplikasi CRUD Keluarga menyediakan fitur berikut:
   - Anak: Dodi
     - Cucu: Gugus
     - Cucu: Gandi
-    - Cucu: Dede
-      - Cicit: Hani (Perempuan)
-      - Cicit: Hana (Perempuan)
+  - Anak: Dede
+    - Cucu: Hani (Perempuan)
+    - Cucu: Hana (Perempuan)
   - Anak: Dewi
